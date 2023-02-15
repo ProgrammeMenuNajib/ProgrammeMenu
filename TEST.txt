@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test Programme</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      .centered {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        color: blue;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: left;
+        margin-left: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="centered">TEST PROGRAMME</div>
+  </body>
+</html>
